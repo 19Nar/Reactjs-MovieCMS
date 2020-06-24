@@ -6,7 +6,7 @@ This work is based on a boilerplate which I used for my coding practice:
 2.1 #homepage - if you click on a film you get more information concerning the film,
 2.2 #search - getting data from API with the help of search button + input value,
 2.3 #soundtracks & #bestsellers - getting and printing data in ul/il
-3. to get connected to with MongoDB by exploring its collections, documents & query results in Table, Tree or JSON View
+3. to get connected to MongoDB and to explore its collections, documents & query results in Table, Tree or JSON View
 4. to work with an unknown library inserted inside the ready boilerplate.
 5. to exercise react skills
 

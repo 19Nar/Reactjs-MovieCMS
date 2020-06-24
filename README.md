@@ -80,13 +80,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-Also see 
-# https://ant.design/docs/react/introduce
-
-# https://github.com/mongodb/mongo/blob/master/README
-
- omdb and iTunes APIs
-
 
 
 # Reactjs-MovieCMS

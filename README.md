@@ -3,9 +3,9 @@ Hi there,
 This work is based on a boilerplate which I used for my coding practice: 
 1. to get access to the API and to learn to work with various APIs, see https://rapidapi.com/blog/types-of-apis/
 2. to print the result of the API in 3 different ways: 
-° #homepage - if you click on a film you get more information concerning the film,
-° #search - getting data from API with the help of search button + input value,
-° #soundtracks & #bestsellers - getting and printing data in ul/il
+2.1 #homepage - if you click on a film you get more information concerning the film,
+2.2 #search - getting data from API with the help of search button + input value,
+2.3 #soundtracks & #bestsellers - getting and printing data in ul/il
 3. to get connected to with MongoDB by exploring its collections, documents & query results in Table, Tree or JSON View
 4. to work with an unknown library inserted inside the ready boilerplate.
 5. to exercise react skills

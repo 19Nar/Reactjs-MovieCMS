@@ -8,7 +8,7 @@ This work is based on a boilerplate which I used for my coding practice:
 2.3 #soundtracks & #bestsellers - getting and printing data in ul/il
 3. to get connected to MongoDB and to explore its collections, documents & query results in Table, Tree or JSON View
 4. to work with an unknown library inserted inside the ready boilerplate.
-5. to exercise react skills
+5. to practice react skills
 
 
 Boilerplate: author: "John ahn", license: "ISC" see: https://github.com/jaewonhimnae/boilerplate-mern-stack
